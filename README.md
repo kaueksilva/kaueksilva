@@ -1,6 +1,6 @@
 ## Olá, Eu sou Kauê!
 
-### 📫 Você pode falar comigo pelo emai: kaueksilva@gmail.com pelo Linkedin ou pelo direct do Instagram
+### 📫 Você pode falar comigo pelo email: kaueksilva@gmail.com pelo Linkedin ou pelo direct do Instagram
 <br>
 <div align="center">
   <a href="https://github.com/kaueksilva">
