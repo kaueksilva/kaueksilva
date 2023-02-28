@@ -4,8 +4,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/kaueksilva">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kaueksilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=DEG,240000,33636e,b30505,e8903ed&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&locale=pt-br&include_all_commits=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueksilva&layout=compact&langs_count=7&theme=tokyonight&bg_color=DEG,240000,33636e,b30505,e8903ed&title_color=ffffff&text_color=ffffff&hide_border=true&locale=pt-br&custom_title=Linguagens&color=ffffff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaueksilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=DEG,240000,33636e,b30505,e8903ed&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&locale=pt-br&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaueksilva&layout=compact&langs_count=7&theme=tokyonight&bg_color=DEG,240000,33636e,b30505,e8903ed&title_color=ffffff&text_color=ffffff&hide_border=true&locale=pt-br&custom_title=Linguagens&color=ffffff"/>
 </div>
 
 
