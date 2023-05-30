@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Kauê Silva</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-- 🌱 I’m currently learning **React TS/JS**
+- 🌱 I’m currently learning **HTML5/CSS/JS**
 
-- 📫 How to reach me **Samuellsantoscontato@outlook.com**
+- 📫 How to reach me **kaueksilva12@gmail.com**
 
 <img width="400" align="right" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif">
 
