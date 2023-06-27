@@ -22,6 +22,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/figma/figma-icon.svg](https://camo.githubusercontent.com/205d436e1627f600bf1830af5a7c981043a5ab0cf176ad708eab6acaa918dc87/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f776f726470726573732f776f726470726573732d706c61696e2e737667)" alt="figma" width="40" height="40"/> </a></p>
 
 <p><img align="center" margin="40 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaueksilva&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kaueksilva" /></p>
 
