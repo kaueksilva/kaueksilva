@@ -27,6 +27,7 @@
 <img align="center" alt="Kauê-MySQL"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="Kauê-Canva"  height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>     
+</p>
 
 <p><img align="center" margin="40 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaueksilva&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kaueksilva" /></p>
 
