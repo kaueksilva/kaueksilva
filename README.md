@@ -18,15 +18,13 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Mille-Git"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="Mille-GitHub"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="center" alt="Mille-HTML"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Mille-CSS"  height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />       
-<img align="center" alt="Mille-Java"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />        
-<img align="center" alt="Mille-MySQL"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="Mille-C"  height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />   
-<img align="center" alt="Mille-Canva"  height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img align="right" alt="Mille-Asuna" height="100"src="https://i.pinimg.com/originals/0b/d2/eb/0bd2ebe8665f20f4264fbffb92b9142d.gif">
+<img align="center" alt="Kauê-HTML"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" alt="Kauê-CSS"  height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" alt="Kauê-JavaScript"  height="30" whidth="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="center" alt="Kauê-Git"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="Kauê-GitHub"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />               
+<img align="center" alt="Kauê-MySQL"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="Kauê-Canva"  height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>     
 
 <p align="left"> 
