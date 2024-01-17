@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Oii+Me+Chamo+Kauê+Silva;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Kauê Silva</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Oii+Me+Chamo+Kauê+Silva;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 - 🌱 I’m currently learning **HTML5/CSS/JS**
 
