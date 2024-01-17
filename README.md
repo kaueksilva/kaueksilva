@@ -7,30 +7,30 @@
 
 - 📫 How to reach me **kaueksilva12@gmail.com**
 
-<img width="400" align="right" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://www.instagram.com/kaueksilva/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaueksilva" height="30" width="40" /></a>
-<a href="https://twitter.com/kaueksilva" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaueksilva" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaueksilva" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaueksilva/" height="30" width="40" /></a>
-</p>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaueksilva/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaueksilva/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kaueksilva)
+
 
 ##
 
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Kauê-HTML"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Kauê-CSS"  height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="Kauê-JavaScript"  height="30" whidth="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Kauê-WordPress"  height="30" whidth="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/375px-WordPress_blue_logo.svg.png" />
-<img align="center" alt="Kauê-Git"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="Kauê-GitHub"  height="30" whidth="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" />               
-<img align="center" alt="Kauê-MySQL"  height="30" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="Kauê-Canva"  height="30" whidth="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img align="center" alt="Kauê-HTML"  height="30" whidth="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="Kauê-CSS"  height="30" whidth="40"  src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="Kauê-JavaScript"  height="30" whidth="40"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="Kauê-WordPress"  height="30" whidth="40" src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img align="center" alt="Kauê-GitHub"  height="30" whidth="40" src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" />               
+<img align="center" alt="Kauê-Git"  height="30" whidth="40" src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" /> 
+<img align="center" alt="Kauê-MySQL"  height="30" whidth="40" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>     
 
-##
+<img src="https://www.lambdatest.com/resources/images/news24.gif" width="400" align="center" alt="coding">
+
 
 
