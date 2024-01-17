@@ -33,7 +33,4 @@
 
 ##
 
-<p><img align="center" margin="40 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaueksilva&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kaueksilva"/></p>
-<p><img align="center" margin="40 0" src="https://github-readme-streak-stats.herokuapp.com/?user=kaueksilva&theme=dracula" alt="kaueksilva"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaueksilva&theme=dracula" alt="kaueksilva"/></p>
 
