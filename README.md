@@ -1,6 +1,6 @@
   <img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" align="center" width="900" >
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0046FF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Kauê+Silva!;Welcome+to+my+Github!;Oi+Me+Chamo+Kauê+Silva!;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0046FF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Kauê+Silva!;Welcome+to+my+Github!;Oi,+Me+Chamo+Kauê+Silva!;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 - 🌱 I’m currently learning **HTML5/CSS/JS**
