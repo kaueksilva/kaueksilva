@@ -20,7 +20,7 @@
 <div>
 <h3>Languages and Tools:</h3>
 
-<div style="display: inline_block"><br>
+<div><br>
 <img align="center" alt="Kauê-HTML"  height="30" whidth="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="Kauê-CSS"  height="30" whidth="40"  src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="Kauê-JavaScript"  height="30" whidth="40"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -29,7 +29,10 @@
 <img align="center" alt="Kauê-Git"  height="30" whidth="40" src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" /> 
 <img align="center" alt="Kauê-MySQL"  height="30" whidth="40" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>     
-<img src="https://www.lambdatest.com/resources/images/news24.gif" width="400" align="center" alt="coding">
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaueksilva&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaueksilva&theme=transparent&show_icons=true&text_color=ffffff&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100)
 
 </div>
 
