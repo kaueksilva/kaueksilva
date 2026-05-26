@@ -153,8 +153,6 @@ Apaixonado por tecnologia, automação e inteligência artificial aplicada ao de
 
 ---
 
-*Desenvolvido com ❤️ por Kauê Silva Nascimento*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=kaueksilva&color=blue&style=for-the-badge)
 
 </div>
