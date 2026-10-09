@@ -34,7 +34,7 @@ const kaue = {
 - 🛢️ Hoje na **Petrobras**, desenvolvendo e mantendo sistemas internos e criando automações em **Python**
 - 🏛️ Na **Prefeitura de Jaboatão**, entreguei **10+ portais e sistemas** usados pela população
 - 🧭 Atuei como **Scrum Master** e liderei estagiários: gosto de fazer o time andar junto
-- 🤖 Uso **IA** (Claude Code, Cursor, Windsurf) e **n8n** para acelerar o desenvolvimento
+- 🤖 Uso **IA** (Claude Code, Antigravity, Cursor, Windsurf) e **n8n** para acelerar o desenvolvimento
 
 ---
 
